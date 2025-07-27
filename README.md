@@ -43,5 +43,7 @@ Useful in test environments where developers need to manually toggle outputs dur
 
 #output
 
+<img width="488" height="283" alt="Image" src="https://github.com/user-attachments/assets/1840491f-3e86-4d68-93a6-2cae0fff8737" />
+
 
 
